@@ -103,3 +103,9 @@ If you ever need to completely remove the application and its shortcuts from you
 ## Linux Requirements
 
 * Any 64-bit Linux distribution (Ubuntu, Fedora, Arch, etc.).
+
+## 📋 Changelog
+
+To view the full history of releases, bug fixes, and performance updates, check out the raw release log directly in this repository:
+
+👉 **[Read the complete changelog.txt](changelog.txt)**
