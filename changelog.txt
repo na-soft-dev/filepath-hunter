@@ -1,6 +1,22 @@
 Filepath Hunter - Changelog
 ===========================
 
+[0.93] 2026-06-12
+
+Added
+
+- New pill labels on the status bar showing the active search mode.
+- Copy filepath right click context menu option for search results.
+- Saves window location and dimensions on exit.
+- New File menu item to reset window default position.
+
+Changed
+
+- Polished icon to have transparent corners.
+- Removed separator from Bookmarks menu if there are no bookmarks.
+
+---
+
 [0.91] 2026-06-11
 
 Changed
